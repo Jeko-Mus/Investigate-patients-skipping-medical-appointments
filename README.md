@@ -1,4 +1,4 @@
-# Investigate-patients-skipping-medical-appointments
+# Investigate reasons patients skip medical appointments
 Investigate factors that affect whether or not a patient misses their medical appointment
 
 ## Introduction
